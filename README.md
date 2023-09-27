@@ -5,6 +5,8 @@ Atividade da disciplina GCC259 - Desenvolvimento de Software Livre do Professor 
 
 # Luiz Carlos Bessa de Lima
 
+![Avatar](https://media.licdn.com/dms/image/D4D35AQGT-uq1OLiNvA/profile-framedphoto-shrink_200_200/0/1683389924269?e=1696446000&v=beta&t=4A84J744h2Ke_q1Aqs2Fz3H3dzMpgDsLQwpI1XPjnus)
+
 - **Nome:** Luiz Carlos Bessa de Lima
 - **Idade:** 27 anos
 - **Localização:** Lavras
